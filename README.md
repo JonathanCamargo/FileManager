@@ -1,4 +1,6 @@
 # FileManager
+[![View FileManager on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/89283-filemanager)
+
 FileManager is a Matlab class that helps in dealing with multiple files that are stored in a nested path
 where each level in the file directories has some meaning.
 
@@ -13,7 +15,7 @@ FileManager is part of <a href=https://github.com/JonathanCamargo/EpicToolbox>Ep
 is required without other tools in EpicToolbox, e.g. when the data is not stored as tables with Header column. I recommend installing and using EpicToolbox to still use FileManager 
 and have access to more useful functions. If you know you don't need it you can clone and use FileManager from this mirror.
 
-** Install **
+***Install***
 Copy the @FileManager folder to a place that is under your Matlab path, or add the parent location of @FileManager to path.
 
 
